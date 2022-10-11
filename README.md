@@ -1,2 +1,4 @@
 # python_essentials
-python essentials arranged in small pieces of code
+Python essentials arranged in small pieces of code
+1. PDF to Audio
+- Converts PDF text to Audio 

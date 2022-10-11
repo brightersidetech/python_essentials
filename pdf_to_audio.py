@@ -1,5 +1,6 @@
 # convert pdf to Audio
-import PyPDF2, pyttsx3
+import PyPDF2
+import pyttsx3
 
 # path o pdf file
 path = open("files/readMe.pdf", "rb")
